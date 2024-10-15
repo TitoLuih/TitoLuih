@@ -7,8 +7,7 @@
 
 - **🗣️ Languages** Spanish Native / English B2 Cambridge
 
-- **📄 Work experience** Intern at Embarba Ascensores for 4 months
-                        - IT technician at Vivatech SL for 4 months
+- **📄 Work experience** Intern at Embarba Ascensores for 4 months / IT technician at Vivatech SL for 4 months
 
 - **📫 How to reach me** luisruizmalaga@gmail.com
 
