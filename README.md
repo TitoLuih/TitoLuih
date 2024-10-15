@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">I'm a student of 42 Málaga, passionate with learning new programming languages and skills.</h3>
+<h3 align="center">I'm a student of 42 Málaga, passionate about learning new programming languages and skills.</h3>
 
 - **📚 Past studies:** DAM 2022 - 2024 / SMR 2020 - 2022
 
