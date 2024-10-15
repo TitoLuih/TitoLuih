@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">I'm a student of 42 Málaga, passionate with learning new programming languages and skills.</h3>
 
-- **🌱 I’m currently learning** C and bash
+- **📖 I’m currently studying** 42 cursus at Málaga
 
-- **📚 Studies** DAM 2022 - 2024 SMR 2020 - 2022
+- **📚 Past studies** DAM 2022 - 2024 / SMR 2020 - 2022
 
-- **📄 Work experience** I worked as an intern in Embarba Ascensores for 3 months
+- **🗣️ Languages** Spanish Native / English B2 Cambridge
+
+- **📄 Work experience** Intern at Embarba Ascensores for 4 months
+-                        IT technician at Vivatech SL for 4 months
 
 - **📫 How to reach me** luisruizmalaga@gmail.com
 
