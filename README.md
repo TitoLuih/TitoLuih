@@ -3,7 +3,7 @@
 
 - **📚 Past studies:** DAM 2022 - 2024 / SMR 2020 - 2022
 
-- **🗣️ Languages:** Spanish Native / English B2 Cambridge
+- **🗣️ Languages:** 🇪🇦 Native / 🇬🇧 B2 Cambridge
 
 - **📄 Work experience:** Intern at Embarba Ascensores for 4 months / IT technician at Vivatech SL for 4 months
 
