@@ -5,7 +5,7 @@
 
 - **📚 Studies** DAM 2022 - 2024 SMR 2020 - 2022
 
-- **📄 Work experience I worked as an intern in Embarba Ascensores for 3 months
+- **📄 Work experience** I worked as an intern in Embarba Ascensores for 3 months
 
 - **📫 How to reach me** luisruizmalaga@gmail.com
 
