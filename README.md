@@ -32,11 +32,4 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
     </a>
 </div>
 
-<br><details>
-  <summary><b>⏳️ View my WakaTime Statistics</b></summary><br>
-
-<!-- Waka Generated Statistics-->
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 [![<lruiz-to>'s 42 stats](https://badge.mediaplus.ma/darkblue/lruiz-to)](https://github.com/greenbinary/badge42)
