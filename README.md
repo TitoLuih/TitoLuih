@@ -5,7 +5,7 @@
 
 - **🗣️ Languages:** 🇪🇦 Native / 🇬🇧 B2 Cambridge
 
-- **👨‍💻 Work experience:** Junior Developer at Embarba Ascensores for 4 months / IT technician at Vivatech SL for 4 months
+- **👨‍💻 Work experience:** Junior Developer at Embarba SL for 4 months / IT technician at Vivatech SL for 4 months
 
 - **📫 How to reach me:** luisruizmalaga@gmail.com
 
