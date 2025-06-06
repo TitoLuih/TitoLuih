@@ -1,22 +1,61 @@
-<h1 align="center">Hello world, I'm Luis</h1>
-<h3 align="center">I'm a student of 42 Málaga, passionate about learning new programming languages and skills.</h3>
+<h1 align="center">Hola, soy Luis 👨‍💻</h1>
+<h3 align="center">Estudiante de desarrollo de software en <a href="https://42malaga.com">42 Málaga</a> | Apasionado por aprender, crear y resolver problemas mediante código.</h3>
 
-- **📚 Past studies:** DAM 2022 - 2024 / SMR 2020 - 2022
+---
 
-- **🗣️ Languages:** 🇪🇦 Native / 🇬🇧 B2 Cambridge
+## 📌 Sobre mí
 
-- **👨‍💻 Work experience:** Junior Developer at Embarba SL for 4 months / IT technician at Vivatech SL for 4 months
+- 🎓 **Estudios previos:**  
+  - Desarrollo de Aplicaciones Multiplataforma (DAM) – 2022–2024  
+  - Sistemas Microinformáticos y Redes (SMR) – 2020–2022  
 
-- **📫 How to reach me:** luisruizmalaga@gmail.com
+- 🧠 **Actualmente aprendiendo:** C, Flutter, algoritmos, arquitectura de ordenadores
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luisruiztorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisruiztorres" height="30" width="40" /></a>
+- 💼 **Experiencia laboral:**  
+  - *Desarrollador Junior Flutter* en Embarba SL (4 meses)  
+  - *Técnico informático* en Vivatech SL (4 meses)
+
+- 🌍 **Idiomas:**  
+  - 🇪🇸 Español (Nativo)  
+  - 🇬🇧 Inglés (Avanzado - Cambridge B2)
+
+- 📫 **Contacto:** luisruizmalaga@gmail.com  
+- 🔗 **Conéctate conmigo:** [LinkedIn](https://linkedin.com/in/luisruiztorres)
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [so_long](https://github.com/TitoLuih/so_long) | Juego 2D desarrollado en C con MiniLibX, con lógica de movimiento, validación de mapas y renderizado gráfico. | C, MiniLibX |
+| [libft](https://github.com/TitoLuih/libft) | Implementación desde cero de funciones estándar de la biblioteca C. | C |
+
+---
+
+## 🛠️ Lenguajes y herramientas
+
+**Lenguajes y frameworks**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" /> 
+
+**Bases de datos**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="30" />
+
+**Herramientas y otros**  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" />
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TitoLuih&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TitoLuih&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TitoLuih&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TitoLuih&theme=blueberry" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TitoLuih&theme=blueberry&utcOffset=8" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TitoLuih&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TitoLuih&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TitoLuih&theme=blueberry)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TitoLuih&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TitoLuih&theme=blueberry&utcOffset=8)
+---
+
+<p align="center">💬 Siempre abierto a nuevos retos, colaboraciones y oportunidades para seguir aprendiendo.</p>
