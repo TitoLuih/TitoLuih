@@ -24,15 +24,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [so_long](https://github.com/TitoLuih/so_long) | Juego 2D desarrollado en C con MiniLibX, con lógica de movimiento, validación de mapas y renderizado gráfico. | C, MiniLibX |
-| [libft](https://github.com/TitoLuih/libft) | Implementación desde cero de funciones estándar de la biblioteca C. | C |
-
----
-
 ## 🛠️ Lenguajes y herramientas
 
 **Lenguajes y frameworks**  
