@@ -9,7 +9,7 @@
   - Desarrollo de Aplicaciones Multiplataforma (DAM) – 2022–2024  
   - Sistemas Microinformáticos y Redes (SMR) – 2020–2022  
 
-- 🧠 **Actualmente aprendiendo:** C, Flutter, algoritmos, arquitectura de ordenadores
+- 🧠 **Actualmente aprendiendo:** C, Flutter, Javascript, algoritmos, arquitectura de ordenadores
 
 - 💼 **Experiencia laboral:**  
   - *Desarrollador Junior Flutter* en Embarba SL (4 meses)  
