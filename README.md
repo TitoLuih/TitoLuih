@@ -1,52 +1,47 @@
-<h1 align="center">Hola, soy Luis 👨‍💻</h1>
-<h3 align="center">Estudiante de desarrollo de software en <a href="https://42malaga.com">42 Málaga</a> | Apasionado por aprender, crear y resolver problemas mediante código.</h3>
-
----
-
-## 📌 Sobre mí
-
-- 🎓 **Estudios previos:**  
-  - Desarrollo de Aplicaciones Multiplataforma (DAM) – 2022–2024  
-  - Sistemas Microinformáticos y Redes (SMR) – 2020–2022  
-
-- 🧠 **Actualmente aprendiendo:** C, Flutter, Javascript, algoritmos, arquitectura de ordenadores
-
-- 💼 **Experiencia laboral:**  
-  - *Desarrollador Junior Flutter* en Embarba SL (4 meses)  
-  - *Técnico informático* en Vivatech SL (4 meses)
-
-- 🌍 **Idiomas:**  
-  - 🇪🇸 Español (Nativo)  
-  - 🇬🇧 Inglés (Avanzado - Cambridge B2)
-
-- 📫 **Contacto:** luisruizmalaga@gmail.com  
-- 🔗 **Conéctate conmigo:** [LinkedIn](https://linkedin.com/in/luisruiztorres)
-
----
-
-## 🛠️ Lenguajes y herramientas
-
-**Lenguajes y frameworks**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" /> 
-
-**Bases de datos**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="30" />
-
-**Herramientas y otros**  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" />
-
----
-
-## 📊 Estadísticas de GitHub
+<h1 align="center">¡Hola! Soy Luis Ruiz Torres 👋</h1>
+<h3 align="center">Junior Software Developer | Estudiante en 42 Málaga</h3>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TitoLuih&theme=blueberry" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TitoLuih&theme=blueberry" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TitoLuih&theme=blueberry" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TitoLuih&theme=blueberry" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TitoLuih&theme=blueberry&utcOffset=8" />
+  <a href="https://www.linkedin.com/in/luisruiztorres/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:luisruizmalaga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">💬 Siempre abierto a nuevos retos, colaboraciones y oportunidades para seguir aprendiendo.</p>
+### 🧭 Sobre mí
+
+Soy Junior Software Developer con experiencia en sistemas, redes y desarrollo de aplicaciones multiplataforma. He trabajado diseñando e implementando soluciones eficientes, fiables y escalables en distintos entornos.
+
+Actualmente sigo formándome en **42 Málaga**, donde profundizo en algoritmos, resolución de problemas e ingeniería de software mediante aprendizaje basado en proyectos. En paralelo, estoy desarrollando conocimientos en **ciberseguridad**, con el objetivo de combinar desarrollo de software y buenas prácticas de seguridad para crear aplicaciones innovadoras y seguras.
+
+- 🎓 Programación en **42 Málaga** (2024 – actualidad)
+- 💼 Experiencia previa en desarrollo Flutter/Java, soporte técnico y administración de sistemas y redes
+- 🏆 Ganador del premio *Most Innovative Project* en el AI Hackathon for Social Integration (2025)
+- 🌱 Aprendiendo ciberseguridad y profundizando en C y bajo nivel
+- 💬 Idiomas: Español (nativo), Inglés (B2 Cambridge)
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,dart,flutter,mysql,html,css,git,linux,bash" />
+</p>
+
+**Lenguajes:** Java, C, Shell, Flutter/Dart, SQL/MySQL, HTML, CSS, XML, JSON
+**Desarrollo:** Apps multiplataforma, control de versiones (Git/GitHub), metodologías ágiles, máquinas virtuales
+**IT & Redes:** Administración de sistemas, resolución de incidencias, mantenimiento de hardware, configuración de redes
+
+---
+
+### 💼 Experiencia
+
+| Empresa | Puesto | Periodo |
+|---|---|---|
+| Embarba Ascensores SL | Prácticas en desarrollo multiplataforma (Flutter/Java) | Mar 2024 – Jun 2024 |
+| CEA SALES | Técnico de software | Jul 2022 – Ago 2022 |
+| VivaTech Servicios SL | Prácticas en redes y sistemas | Mar 2022 – Jun 2022 |
